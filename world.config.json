@@ -1,0 +1,17 @@
+{
+  "commissionerName": "TC-S Network Foundation GBI",
+  "currencyName": "Solar Rays",
+  "format": "SW.0001",
+  "formatNote": "W = whole number",
+  "distribution": {
+    "perHumanPerDay": "S1.0000"
+  },
+  "conversion": {
+    "S1.0000_to_kWh": 4913
+  },
+  "pricing": {
+    "basis": "Solar Rays equivalent of kWh footprint",
+    "footprintDefinition": "kWh sum of material, production, transportation, distribution",
+    "determinedBy": "Situational Awareness AI Wallet"
+  }
+}
