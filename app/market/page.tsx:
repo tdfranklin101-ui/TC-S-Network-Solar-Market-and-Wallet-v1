@@ -1,0 +1,9 @@
+export default function MarketPage() {
+  return (
+    <main style={{ fontFamily: 'system-ui', padding: 24 }}>
+      <h1>Market</h1>
+      <p>Pricing based on Solar Rays ≙ kWh footprint.</p>
+      <p>Footprint = kWh of materials + production + transport + distribution (per SA-AI Wallet).</p>
+    </main>
+  );
+}
